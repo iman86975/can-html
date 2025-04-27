@@ -1,0 +1,79 @@
+.ted{
+width: 230px;
+}
+
+
+
+.com{
+    background-color: white;
+    color: black;
+    position: absolute;
+    bottom: 100px;
+    left: 40vh;
+    font-size: 10;
+    opacity: 0.5;
+    
+}
+
+.man{
+    display: inline;
+    position: absolute;
+    top: 50px;
+    left: 40vh;
+
+    color: black;
+    display: block;
+}
+.ana{
+    top: 1px;
+    right: 20vh;
+position: absolute;
+display: inline;
+}
+.ham{
+    position: absolute;
+    top: 1.5px;
+    right: 30vh;
+    display: inline;
+    display: block;
+    color: whitesmoke;
+    text-align: none;
+
+}
+.leg{
+    position: absolute;
+    top: 1.5px;
+    right: 1vh;
+    display: inline;
+    display: block;
+    color: whitesmoke;
+    text-align: none;
+
+}
+.mat{
+    position: absolute;
+    right: 10vh;
+    display: inline;
+    text-align: none;
+    display: block;
+}
+.pet{
+    font-style: italic;
+}
+
+.column{
+    float: left;
+    width: 24%;
+    margin-right: 10px;
+}
+.card{
+    height: 220px;
+}
+
+
+
+
+#hand{
+    color: black;
+}
+
